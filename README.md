@@ -1,0 +1,2 @@
+# Warming-and-CO2-effects-under-oligotrophication-on-temperate-phytoplankton-communities
+Eutrophication, global warming, and rising carbon dioxide (CO2) levels are the three most prevalent pressures impacting the biosphere. Despite their individual effects are well-known, it remains untested how oligotrophication (i.e. nutrients reduction) can alter the planktonic community responses to warming and elevated CO2 levels.
